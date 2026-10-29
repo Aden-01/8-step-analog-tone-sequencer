@@ -32,7 +32,7 @@ The main functional blocks are:
 
 ## Hardware and Components
 
-The design uses components including the NE555 timer IC, CD4022 counter IC, 7805 voltage regulator, resistors, capacitors, diodes, potentiometers, LEDs, a speaker, and a power switch.
+The design uses components including the NE555 timer IC, CD4022 counter IC, resistors, capacitors, diodes, potentiometers, LEDs, a speaker, and a power switch.
 
 Refer to the uploaded circuit diagram and component list for the final implementation.
 
